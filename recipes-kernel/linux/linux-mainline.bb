@@ -1,5 +1,5 @@
 # Copyright (C) 2021, meta-linux-mainline contributors (auto-generated file)
 # SPDX-License-Identifier: CC0-1.0
-LINUX_VERSION = "6.2-rc4"
-SRCREV = "5dc4c995db9eb45f6373a956eb1f69460e69e6d4"
+LINUX_VERSION = "6.2-rc5"
+SRCREV = "2241ab53cbb5cdb08a6b2d4688feb13971058f65"
 require linux-mainline.inc
